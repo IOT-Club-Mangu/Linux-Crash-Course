@@ -1,4 +1,4 @@
-![linux](https://github.com/IOT-Club-Mangu/Linux-Crash-Course/assets/98217039/ac28f8d9-32e2-48dd-8b3b-08f9bcd17bcc)
+![linux](https://github.com/IOT-Club-Mangu/Linux-Crash-Course/assets/98217039/c4b5f089-323d-40a6-80d1-8ff8f1ee4c4c)
 
 
 
@@ -41,7 +41,7 @@ There are many Linux distributions to choose from, we’ll just go over the most
 # 3 Debian
 
 
-![debian](https://github.com/IOT-Club-Mangu/Linux-Crash-Course/assets/98217039/2a655cf7-6fa3-45c5-ade4-114eae761a7d)
+![debian](https://github.com/IOT-Club-Mangu/Linux-Crash-Course/assets/98217039/1fc5b1f2-bb07-461b-9019-dc2635f7b658)
 
 
 Debian is an operating system composed entirely of free and open-source software. It’s widely known and has been in development for over 20 years.
@@ -57,7 +57,7 @@ Package Management
 
 # 4 Red Hat Enterprise Linux
 
-![redhat](https://github.com/IOT-Club-Mangu/Linux-Crash-Course/assets/98217039/ec039e09-1629-44a9-b87c-52f22255824e)
+![redhat](https://github.com/IOT-Club-Mangu/Linux-Crash-Course/assets/98217039/d9627829-cfd5-4b14-bd5b-bef2def2bbea)
 
 
 Red Hat Enterprise Linux commonly referred to as RHEL is developed by Red Hat. RHEL has strict rules to restrict free re-distribution although it still provides source code for free
@@ -75,7 +75,7 @@ Uses
 # 5.Ubuntu
 
 
-![ubuntu](https://github.com/IOT-Club-Mangu/Linux-Crash-Course/assets/98217039/b76cadc3-0c24-4992-a11a-597518c0b453)
+![ubuntu](https://github.com/IOT-Club-Mangu/Linux-Crash-Course/assets/98217039/fc6e48a0-9c48-4e31-94c8-5b1e83bb741a)
 
 
 One of the most popular Linux distributions for personal machines is Ubuntu. Ubuntu also releases its own desktop environment manager Unity by default.
@@ -92,7 +92,7 @@ Uses
 # 6.Fedora
 
 
-![fedora](https://github.com/IOT-Club-Mangu/Linux-Crash-Course/assets/98217039/f11d4d2e-1d2f-459c-af0d-6a3d985caa31)
+![fedora](https://github.com/IOT-Club-Mangu/Linux-Crash-Course/assets/98217039/70430b4d-f050-41fa-9632-5c478fe10e03)
 
 
 Backed by Red Hat, the Fedora Project is community driven containing open-source and free software. Red Hat Enterprise Linux branches off Fedora, so think of Fedora as an upstream RHEL operating system. Eventually RHEL will get updates from Fedora after thorough testing and quality assurance. Think of Fedora as an Ubuntu equivalent that uses a Red Hat backend instead of Debian.
@@ -110,7 +110,7 @@ Uses
 # 7.Linux Mint
 
 
-![linuxmint](https://github.com/IOT-Club-Mangu/Linux-Crash-Course/assets/98217039/7077ad15-8ff2-4694-bb82-2363897db192)
+![linuxmint](https://github.com/IOT-Club-Mangu/Linux-Crash-Course/assets/98217039/0a31dbc3-777b-4396-84db-bba9585025a6)
 
 
 Linux Mint is based off of Ubuntu. It uses Ubuntu’s software repositories so the same packages are available on both distributions. If you prefer a lighter distro than Ubuntu, you may be interested in Linux Mint.
@@ -128,7 +128,7 @@ Uses
 # 8.Gentoo
 
 
-![gentoo](https://github.com/IOT-Club-Mangu/Linux-Crash-Course/assets/98217039/3ace8f0d-e284-4618-8bca-b1c670d05bc5)
+![gentoo](https://github.com/IOT-Club-Mangu/Linux-Crash-Course/assets/98217039/55b1de1f-fa5f-4c1a-9911-30d6f1d2323e)
 
 
 Gentoo offers ridiculous flexibility with the operating system at a price. It’s made for advanced users who don’t mind getting their hands dirty with the system.
@@ -146,7 +146,7 @@ Uses
 # 9.Arch Linux
 
 
-![archlinux](https://github.com/IOT-Club-Mangu/Linux-Crash-Course/assets/98217039/db0032a1-667f-4138-9b59-c8ffe5bfe625)
+![archlinux](https://github.com/IOT-Club-Mangu/Linux-Crash-Course/assets/98217039/3ea9dee7-b412-4bc0-8275-a95d43c2367b)
 
 
 Arch is a lightweight and flexible Linux distribution driven 100% by the community. Similar to Debian, Arch uses a rolling release model so incremental updates eventually become the Stable release. You really need to get your hands dirty to understand the system and its functions, but in turn you get complete and total control of your system.
@@ -163,8 +163,7 @@ Uses
 
 # 10.openSUSE
 
-
-![opensuse](https://github.com/IOT-Club-Mangu/Linux-Crash-Course/assets/98217039/0b99411f-608f-4b0f-be74-aee76dcd4aa3)
+![opensuse](https://github.com/IOT-Club-Mangu/Linux-Crash-Course/assets/98217039/a4aba752-4ad0-431b-bf13-98efa9483903)
 
 
 
