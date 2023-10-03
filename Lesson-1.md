@@ -1,7 +1,7 @@
 ![linux](https://github.com/IOT-Club-Mangu/Linux-Crash-Course/assets/98217039/ac28f8d9-32e2-48dd-8b3b-08f9bcd17bcc)
 
 
-##LINUX 
+# LINUX 
 We will be covering 
 * History of linux
 * Choosing a linux Distribution
@@ -14,7 +14,7 @@ We will be covering
 * Arch Linux
 * openSUSE
 
-# 1 HISTORY OF LINUX 
+# 1.HISTORY OF LINUX 
 Hey rookie! So you decided to dive into this wonderful world known as Linux? It’s gonna be a beautiful and enjoyable road ahead! My name is Penguin Pete and I’m here to guide you through this journey. Let’s get started with a little bit of backstory about Linux.
 
 To learn about how Linux came to be, let’s go back to the beginning to 1969 where Ken Thompson and Dennis Ritchie of Bell Laboratories developed the UNIX operating system. It was later rewritten in C to make it more portable and eventually became a widely used operating system.
@@ -27,7 +27,7 @@ During this time other efforts such as BSD, MINIX, etc were developed to be UNIX
 
 Then in 1991, a young fellow named Linus Torvalds started developing what we now know today as the Linux kernel.
 
-# 2 CHOOSING A LINUX  DISTRIBUTION
+# 2.CHOOSING A LINUX  DISTRIBUTION
 A Linux system is divided into three main parts:
 
 Hardware - This includes all the hardware that your system runs on as well as memory, CPU, disks, etc.
@@ -45,13 +45,13 @@ There are many Linux distributions to choose from, we’ll just go over the most
 
 Debian is an operating system composed entirely of free and open-source software. It’s widely known and has been in development for over 20 years.
 
-Package Management
+* Package Management
 Debian also uses Debian package management tools. Every Linux distribution installs and manages packages differently and they use different package management tools. We’ll get more into this in a later course.
 
-Configurability
+* Configurability
 Debian may not get the latest updates, but it's extremely stable. If you want a good "core" operating system, this is the one for you.
 
-Uses
+* Uses
 Debian is an overall great operating system for any platform.
 
 # 4 Red Hat Enterprise Linux
@@ -61,13 +61,13 @@ Debian is an overall great operating system for any platform.
 
 Red Hat Enterprise Linux commonly referred to as RHEL is developed by Red Hat. RHEL has strict rules to restrict free re-distribution although it still provides source code for free
 
-Package Management
+* Package Management
 RHEL uses a different package manager than Debian, RPM package manager, which we will eventually learn about as well.
 
-Configurability
+* Configurability
 RHEL-based operating systems will differ slightly from the Debian-based operating systems, most noticeably in package management. If you decide to go with RHEL it’s probably best if you know you’ll be working with it.
 
-Uses
+* Uses
 As described by the name it's mostly used in enterprise, so if you need a solid server OS this would be a good one
 
 
