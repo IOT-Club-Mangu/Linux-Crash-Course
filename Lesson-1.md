@@ -160,7 +160,7 @@ Uses
 * Great for desktop and laptop. If you also have a small device such as a Raspberry Pi and need to stick a lightweight OS on it, you can’t go wrong with Arch.
 
 
-# 10.openUSES
+# 10.openSUSE
 
 
 ![opensuse](https://github.com/IOT-Club-Mangu/Linux-Crash-Course/assets/98217039/0b99411f-608f-4b0f-be74-aee76dcd4aa3)
