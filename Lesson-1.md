@@ -70,6 +70,114 @@ Configurability
 Uses
 *  As described by the name it's mostly used in enterprise, so if you need a solid server OS this would be a good one
 
+  
+# 5.Ubuntu
+
+
+![ubuntu](https://github.com/IOT-Club-Mangu/Linux-Crash-Course/assets/98217039/b76cadc3-0c24-4992-a11a-597518c0b453)
+
+
+One of the most popular Linux distributions for personal machines is Ubuntu. Ubuntu also releases its own desktop environment manager Unity by default.
+
+Package Management
+* Ubuntu is a Debian-based operating system developed by Canonical. So it uses a core Debian package management system.
+
+Configurability
+* Ubuntu is a great choice for a beginner who wants to get into Linux. Ubuntu offers ease of use and a great user interface experience that has led to its wide adoption. It’s widely used and supported and is most like other operating systems like OSX and Windows in terms of usability.
+
+Uses
+* Great for any platform, desktop, laptop and server.
+
+# 6.Fedora
+
+
+![fedora](https://github.com/IOT-Club-Mangu/Linux-Crash-Course/assets/98217039/f11d4d2e-1d2f-459c-af0d-6a3d985caa31)
+
+
+Backed by Red Hat, the Fedora Project is community driven containing open-source and free software. Red Hat Enterprise Linux branches off Fedora, so think of Fedora as an upstream RHEL operating system. Eventually RHEL will get updates from Fedora after thorough testing and quality assurance. Think of Fedora as an Ubuntu equivalent that uses a Red Hat backend instead of Debian.
+
+Package Management
+* Uses Red Hat package manager.
+
+Configurability
+* If you want to use a Red Hat based operating system, this is a user friendly version.
+
+Uses
+* Fedora is great if you want a Red Hat based operating system without the price tag. Recommended for desktop and laptop.
+
+
+# 7.Linux Mint
+
+
+![linuxmint](https://github.com/IOT-Club-Mangu/Linux-Crash-Course/assets/98217039/7077ad15-8ff2-4694-bb82-2363897db192)
+
+
+Linux Mint is based off of Ubuntu. It uses Ubuntu’s software repositories so the same packages are available on both distributions. If you prefer a lighter distro than Ubuntu, you may be interested in Linux Mint.
+
+Package Management
+* Since Linux Mint is Ubuntu based, it uses the Debian package manager.
+
+Configurability
+* Great user interface, great for beginners and less bloated than Ubuntu. In this course, I’ll be using Linux Mint, but any other distribution can be used.
+
+Uses
+* Great for desktop and laptop.
+
+
+# 8.Gentoo
+
+
+![gentoo](https://github.com/IOT-Club-Mangu/Linux-Crash-Course/assets/98217039/3ace8f0d-e284-4618-8bca-b1c670d05bc5)
+
+
+Gentoo offers ridiculous flexibility with the operating system at a price. It’s made for advanced users who don’t mind getting their hands dirty with the system.
+
+Package Management
+* Gentoo uses its own package management, Portage. The Portage package management is very modular and easy to maintain, which plays a big part in the operating system as a whole being very flexible.
+
+Configurability
+* If you’re just getting started with Linux and want to take a more difficult path, I’d choose Gentoo or Arch Linux as your distribution.
+
+Uses
+* Great for desktop and laptop.
+
+
+# 9.Arch Linux
+
+
+![archlinux](https://github.com/IOT-Club-Mangu/Linux-Crash-Course/assets/98217039/db0032a1-667f-4138-9b59-c8ffe5bfe625)
+
+
+Arch is a lightweight and flexible Linux distribution driven 100% by the community. Similar to Debian, Arch uses a rolling release model so incremental updates eventually become the Stable release. You really need to get your hands dirty to understand the system and its functions, but in turn you get complete and total control of your system.
+
+Package Management
+* It uses its own package manager, Pacman, to install, update and manage packages.
+
+Configurability
+* If you want a lightweight operating system and really want to understand Linux use Arch! There’s a bit of a learning curve, but for the hardcore Linux users, this is a great choice.
+
+Uses
+* Great for desktop and laptop. If you also have a small device such as a Raspberry Pi and need to stick a lightweight OS on it, you can’t go wrong with Arch.
+
+
+# 10.openUSES
+
+
+![opensuse](https://github.com/IOT-Club-Mangu/Linux-Crash-Course/assets/98217039/0b99411f-608f-4b0f-be74-aee76dcd4aa3)
+
+
+
+openSUSE Linux is created by the openSUSE Project. A community that promotes the use of Linux everywhere, working together in an open, transparent and friendly manner as part of the worldwide Free and Open Source Software community. openSUSE is the second oldest still running Linux Distributions and shares the base system with SUSE's award-winning SUSE Linux Enterprise products.
+
+Package Management
+* Uses RPM package manager.
+
+Configurability
+* openSUSE is a great choice for a new Linux user. It offers an easy to use graphical installer/administration application (YaST) and a tiday base system, easy to tinker with. openSUSE includes everything you need to enjoy the Internet worry free of viruses/spy-ware and to live out your creativity, be it with your photos, videos, music or code.
+
+Uses
+* openSUSE Leap is fully capable of being used on a desktop PC and laptop.
+
 
 
 
